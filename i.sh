@@ -50,7 +50,7 @@ cd /var/www/html
 apt install git -y
 
 # Cloning!
-git clone git://github.com/0613561761za/sshpanel/tree/1be198feb6a4bb7cb914f68745b1b81af34ad111.git
+git clone git://github.com/0613561761za/sshpanel.git
 
 # Generating .env file & configure database
 mysql -u root -p$default -e "CREATE DATABASE IF NOT EXISTS sshpanel;exit;"
