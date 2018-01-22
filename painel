@@ -25,9 +25,7 @@ cd /var/www/html
 apt install git -y
 
 # Cloning!
-git clone git://github.com/0613561761za/sshpanel.git
-
-
+git clone git://github.com/xiao3vv/xiao3vpn.git
 
 rm index.html
 clear
